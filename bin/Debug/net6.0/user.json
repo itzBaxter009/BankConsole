@@ -1,0 +1,18 @@
+[
+  {
+    "TaxRegime": "M",
+    "ID": 1,
+    "Name": "Pedro Pardo",
+    "Email": "pedro.pardo@gmail.com",
+    "Balance": 510.0,
+    "RegisterDate": "2022-07-14T22:31:58.7767954-05:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 2,
+    "Name": "Jesus Pardo",
+    "Email": "jesus@gmail.com",
+    "Balance": 918.0,
+    "RegisterDate": "2022-07-14T22:32:43.829608-05:00"
+  }
+]
